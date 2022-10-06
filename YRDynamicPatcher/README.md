@@ -25,25 +25,9 @@ We can use it to do something below:
 - Dynamic Compile & Syringe Technique
 - Hook Conflict Detection
 
-
-Examples
---------
-
-![dynamic_change](https://github.com/Xkein/Images/blob/master/DynamicPatcher/dynamic_change.gif?raw=true)
-
-![recovery_hook](https://github.com/Xkein/Images/blob/master/DynamicPatcher/recovery_hook.gif?raw=true)
-
-![try-catch](https://github.com/Xkein/Images/blob/master/DynamicPatcher/try-catch.gif?raw=true)
-
-![fire_update_script](https://github.com/Xkein/Images/blob/master/DynamicPatcher/fire_update_script.gif?raw=true)
-
-![event_decorator](https://github.com/Xkein/Images/blob/master/DynamicPatcher/event_decorator.gif?raw=true)
-
-![runtime_ini_edit](https://github.com/Xkein/Images/blob/master/DynamicPatcher/runtime_ini_edit.gif?raw=true)
-
 Quick Use
 --------
-1. Download newest DynamicPatcher from [Releases (Recommended)](https://github.com/Xkein/YRDynamicPatcher/releases) or [Actions](https://github.com/Xkein/YRDynamicPatcher/actions).
+1. Download newest DynamicPatcher from [Releases (Recommended)](https://github.com/AskeBt/YRDynamicPatcher/releases) or [Actions](https://github.com/AskeBt/YRDynamicPatcher/actions).
 2. Unzip to game folder.
 3. Open config file `DynamicPatcher\dynamicpatcher.config.json` and set `hide_console` to false, in order to check if DynamicPatcher work.
    - You can try something mentioned in Release.
@@ -167,7 +151,7 @@ namespace PatcherSample
   - Field
   - Property
 
-[DynamicPatcher based Extensions](https://github.com/Xkein/DPExtension-Dionysus)
+[DynamicPatcher based Extensions](https://github.com/AskeBt/DPExtension-Dionysus)
 --------
 The extension is divided into 2 parts —— dynamic and static.
 
@@ -183,7 +167,7 @@ Dynamic means that you can edit when game running.
   3. Managers
   4. ...
 
-[YRPP](https://github.com/Xkein/PatcherYRpp)
+[YRPP](https://github.com/AskeBt/PatcherYRpp)
 --------
 YRPP is a static part of Extension.
 
