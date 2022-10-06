@@ -192,11 +192,3 @@ It give some game structure and helpers in C# style.
 Legal
 -----
 This project has no direct affiliation with Electronic Arts Inc. Command & Conquer, Command & Conquer Red Alert 2, Command & Conquer Yuri's Revenge are registered trademarks of Electronic Arts Inc. All Rights Reserved.
-
-Support Me
------
-[Patreon](https://www.patreon.com/Xkein)
-
-[Alipay](https://github.com/Xkein/Images/blob/master/SupportMe/alipay.jpg?raw=true)
-
-[WeChat](https://github.com/Xkein/Images/blob/master/SupportMe/wechat.png?raw=true)
